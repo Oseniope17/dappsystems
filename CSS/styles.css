@@ -1,0 +1,165 @@
+
+.navbar-brand{
+    color: #019dea;
+    padding: 0 65% 0 5%;
+    font-weight: bold;
+}
+
+.upper-info{
+    margin: 3% auto;
+    text-align: center;
+}
+
+.site-name{
+    color: #019dea;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 400%;
+    padding: 3% 0 3%;
+}
+
+.wide-btn{
+    padding: 5%;
+}
+
+.site-info{
+    color: white;
+    font-size: 16px;
+    margin: auto;
+    padding-bottom: 3%;
+}
+
+.select-hd{
+    color: #019dea;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.indi-coin{
+    padding: 2% 0;
+}
+
+.coins{
+    background-color: #3030304d;
+    border: 5px;
+    border-radius: 25px;
+    margin: 0 1%;
+    padding: 3% 0 3%;
+    text-align: center;
+}
+
+.coin-name{
+    color: white;
+    font-size: medium;
+}
+
+.coins-img{
+    background-color: white;
+    border-radius: 15px;
+    max-width: 3rem;
+    padding: 2%;
+}
+
+.big-btn{
+    border-radius: 25%;
+    height: 90%;
+    width: 80%;
+}
+
+p{
+    color: gray;
+    font-size: 12px;
+}
+
+.footer-details{
+    color: #0d6efd;
+    text-align: center;
+    padding: 7% 0 3%;
+    font-size: 14px;
+}
+
+@media (max-width:900px) {
+    
+.navbar-brand{
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: bold;
+    padding: 0;
+    padding-left: 0;
+}
+
+.upper-info{
+    margin: 3% auto 15%;
+    text-align: center;
+}
+
+.site-name{
+    color: #019dea;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 140%;
+    padding: 10% 0;
+}
+
+.wide-btn{
+    padding: 5%;
+}
+
+.site-info{
+    color: white;
+    font-size: 14px;
+    margin: auto;
+    padding: 0 10% 5%;
+}
+
+.select-hd{
+    color: #019dea;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 150%;
+    padding: 5% 0;
+}
+
+.indi-coin{
+    padding: 2% 0;
+}
+
+.coins{
+    background-color: #3030304d;
+    border: 5px;
+    border-radius: 25px;
+    margin: 0 1%;
+    padding: 7% 0 5%;
+    text-align: center;
+}
+
+.coin-name{
+    color: white;
+    font-size: medium;
+}
+
+.coins-img{
+    background-color: white;
+    border-radius: 15px;
+    margin: 3% 0;
+    max-width: 3rem;
+    padding: 2%;
+}
+
+.big-btn{
+    border-radius: 25%;
+    height: 90%;
+    padding: 7% 0;
+    width: 80%;
+}
+
+
+p{
+    color: gray;
+    font-size: 12px;
+}
+
+.footer-details{
+    color: #019dea;
+    text-align: center;
+    padding: 10% 10% 5%;
+    font-size: 14px;
+}
+    
+}
